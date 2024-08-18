@@ -1,6 +1,6 @@
 module github.com/benodiwal/server
 
-go 1.23.0
+go 1.22.2
 
 require (
 	github.com/aws/aws-sdk-go v1.55.5 // indirect
